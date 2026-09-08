@@ -1,7 +1,7 @@
 opencv-python-headless==4.10.0.84
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.4.1
-torchvision==0.19.1
+torch
+torchvision
 streamlit==1.39.0
 ultralytics==8.3.24
 pillow==10.4.0
